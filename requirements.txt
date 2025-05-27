@@ -3,4 +3,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-scipy
+xgboost
+imbalanced-learn
+shap
